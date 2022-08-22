@@ -1,0 +1,17 @@
+{
+  "name": "language-detection-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cld": "^2.8.4",
+    "franc": "^5.0.0",
+    "iso-639-3-to-1": "^1.0.0",
+    "node-nlp": "^4.24.0"
+  }
+}
